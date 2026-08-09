@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-# Run word count on a real Hadoop cluster in Docker.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"

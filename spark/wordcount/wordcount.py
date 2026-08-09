@@ -1,5 +1,3 @@
-"""Run a Spark word count job (master provided by spark-submit)."""
-
 import re
 import sys
 from pathlib import Path
