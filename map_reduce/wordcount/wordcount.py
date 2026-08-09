@@ -3,7 +3,7 @@ import sys
 import time
 from pathlib import Path
 
-INPUT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).parent / "sample_input.txt"
+# INPUT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).parent / "sample_input.txt"
 INPUT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).parent / "large_input.txt"
 
 # Step 1: Map

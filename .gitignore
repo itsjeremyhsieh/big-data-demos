@@ -2,3 +2,4 @@ map_reduce/wordcount/large_input.txt
 .venv/
 hadoop/wordcount/large_input.txt
 spark/wordcount/large_input.txt
+large_input.txt
