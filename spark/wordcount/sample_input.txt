@@ -1,0 +1,5 @@
+Spark is a distributed processing engine for large datasets.
+Spark jobs split work across many executors and cores.
+In word count, Spark maps each word to one.
+Then Spark reduces by key and sums counts for each unique word.
+Spark makes word count fast and scalable.

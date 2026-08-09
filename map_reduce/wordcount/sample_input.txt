@@ -1,0 +1,5 @@
+MapReduce is a programming model for processing large datasets.
+MapReduce jobs split work into map and reduce phases.
+In word count, the map phase emits one for each word.
+The reduce phase sums counts for each unique word.
+MapReduce makes it easy to scale word count across many machines.
